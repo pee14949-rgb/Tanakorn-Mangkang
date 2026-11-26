@@ -351,7 +351,7 @@ async function startServer() {
   }
 
   app.listen(PORT, '0.0.0.0', () => {
-    console.log(`ATC Manpower Control Tower running on http://0.0.0.0:${PORT}`);
+    console.log(`Autocorp x PB Manpower Control Tower running on http://0.0.0.0:${PORT}`);
   });
 }
 

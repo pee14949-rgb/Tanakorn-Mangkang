@@ -14,19 +14,19 @@ interface TopBarProps {
 const TAB_META: Record<NavigationTab, { title: string; breadcrumb: string }> = {
   checklist: {
     title: 'เช็คลิสต์รายวัน',
-    breadcrumb: 'ATC Manpower Control Tower / เช็คลิสต์รายวัน',
+    breadcrumb: 'Autocorp x PB Manpower Control Tower / เช็คลิสต์รายวัน',
   },
   dashboard: {
     title: 'แดชบอร์ดภาพรวมกำลังคน',
-    breadcrumb: 'ATC Manpower Control Tower / แดชบอร์ด',
+    breadcrumb: 'Autocorp x PB Manpower Control Tower / แดชบอร์ด',
   },
   employees: {
     title: 'รายชื่อพนักงานทั้งหมด',
-    breadcrumb: 'ATC Manpower Control Tower / พนักงาน',
+    breadcrumb: 'Autocorp x PB Manpower Control Tower / พนักงาน',
   },
   sync: {
     title: 'ตั้งค่า / เชื่อมต่อ Google Sheet',
-    breadcrumb: 'ATC Manpower Control Tower / Sync จากชีต',
+    breadcrumb: 'Autocorp x PB Manpower Control Tower / Sync จากชีต',
   },
 };
 

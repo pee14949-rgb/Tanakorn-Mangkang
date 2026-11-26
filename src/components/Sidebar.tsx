@@ -82,8 +82,8 @@ export function Sidebar({
             </svg>
           </div>
           <div className="min-w-0">
-            <div className="font-display text-[15px] font-bold tracking-tight text-white truncate">
-              ATC Manpower
+            <div className="font-display text-[13.5px] font-bold tracking-tight text-white truncate">
+              Autocorp x PB Manpower
             </div>
             <div className="text-xs text-teal-200/80 truncate">
               Control Tower
