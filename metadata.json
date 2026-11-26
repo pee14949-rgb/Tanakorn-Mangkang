@@ -1,0 +1,6 @@
+{
+  "name": "ATC Manpower Control Tower",
+  "description": "ระบบบริหารจัดการและติดตามกำลังคน เช็คลิสต์รายวัน แดชบอร์ดวิเคราะห์กำลังคน และเชื่อมต่อข้อมูลจาก Google Sheet",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
